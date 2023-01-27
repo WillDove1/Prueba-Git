@@ -1,1 +1,3 @@
-Fichero v1
+Fichero v2
+
+Texto añadido
